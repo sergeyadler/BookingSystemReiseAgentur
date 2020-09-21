@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="457b9c6a-b752-41bc-a8f0-1e293e399e6d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hBH0RLlMlLGWyM0XxgRBcOVQth" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Starter" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="User.Starter" />
+      <module name="MyProjectBookingSystem" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="User.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="457b9c6a-b752-41bc-a8f0-1e293e399e6d" name="Default Changelist" comment="" />
+      <created>1599477341653</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599477341653</updated>
+      <workItem from="1599477345542" duration="6999000" />
+      <workItem from="1600194137219" duration="1501000" />
+      <workItem from="1600709383704" duration="397000" />
+      <workItem from="1600712979383" duration="617000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="393" y="49" key="CommitChangelistDialog2" timestamp="1600713350495">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state x="393" y="49" key="CommitChangelistDialog2/0.43.1536.821@0.43.1536.821" timestamp="1600713350495" />
+    <state width="1493" height="191" key="GridCell.Tab.0.bottom" timestamp="1600710612028">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state width="1493" height="191" key="GridCell.Tab.0.bottom/0.43.1536.821@0.43.1536.821" timestamp="1600710612028" />
+    <state width="1493" height="191" key="GridCell.Tab.0.center" timestamp="1600710612028">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state width="1493" height="191" key="GridCell.Tab.0.center/0.43.1536.821@0.43.1536.821" timestamp="1600710612028" />
+    <state width="1493" height="191" key="GridCell.Tab.0.left" timestamp="1600710612028">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state width="1493" height="191" key="GridCell.Tab.0.left/0.43.1536.821@0.43.1536.821" timestamp="1600710612028" />
+    <state width="1493" height="191" key="GridCell.Tab.0.right" timestamp="1600710612028">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state width="1493" height="191" key="GridCell.Tab.0.right/0.43.1536.821@0.43.1536.821" timestamp="1600710612028" />
+    <state x="0" y="100" key="SettingsEditor" timestamp="1600709704892">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state x="0" y="100" key="SettingsEditor/0.43.1536.821@0.43.1536.821" timestamp="1600709704892" />
+    <state x="361" y="188" key="Vcs.Push.Dialog.v2" timestamp="1600713122117">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state x="361" y="188" key="Vcs.Push.Dialog.v2/0.43.1536.821@0.43.1536.821" timestamp="1600713122117" />
+    <state x="465" y="279" key="com.intellij.ide.util.TipDialog" timestamp="1600194143864">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state x="465" y="279" key="com.intellij.ide.util.TipDialog/0.43.1536.821@0.43.1536.821" timestamp="1600194143864" />
+    <state x="585" y="349" key="git4idea.ui.GitResetDialog" timestamp="1600713097013">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state x="585" y="349" key="git4idea.ui.GitResetDialog/0.43.1536.821@0.43.1536.821" timestamp="1600713097013" />
+    <state x="425" y="208" key="run.anything.popup" timestamp="1599687017137">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state x="425" y="208" key="run.anything.popup/0.43.1536.821@0.43.1536.821" timestamp="1599687017137" />
+  </component>
+</project>
